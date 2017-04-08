@@ -1,4 +1,4 @@
-Genisys
+Genisys unofficial
 ===================
 
 __Feature-rich server software for Minecraft: Pocket Edition & Windows 10 Edition Beta__
@@ -6,15 +6,7 @@ __Feature-rich server software for Minecraft: Pocket Edition & Windows 10 Editio
 [![Travis-CI](https://img.shields.io/travis/iTXTech/Genisys/master.svg)](https://travis-ci.org/iTXTech/Genisys)
 [![GitLab CI](https://gitlab.com/itxtech/genisys/badges/master/build.svg)](https://gitlab.com/itxtech/genisys/pipelines?scope=branches)
 
-
-Introduction
--------------
-Genisys is one of several derived projects resulting from the inactivity of **[PocketMine/PocketMine-MP](https://github.com/PocketMine/PocketMine-MP)**. It has many gameplay features implemented which PocketMine-MP does not since Minecraft PE v0.11.
-However, this project has been abandoned by most of its active developers, and the project quality has been lowered by too many people touching code without understanding side effects.
-
-Genisys is now no longer under active development due to its remaining developers do not wish to continue working with its mess, and it is now for the most part maintenance-only. 
-If you wish to continue using Genisys, you may continue to do so, but its maintenance now primarily consists of cherry-picking from its re-activated parent project, **[pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)**, and its stability leaves a lot to be desired. 
-We recommend you move to **[pmmp/PocketMine-MP](https://github.com/pmmp/PocketMine-MP)** as soon as you feel comfortable doing so. This project will cease to be maintained once PocketMine-MP overtakes it.
+## welcome to the unofficial genisys builds  i am trying to keep genisys uptodate
 
 Help & Support
 -------------
