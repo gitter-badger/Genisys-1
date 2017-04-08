@@ -1,6 +1,8 @@
 Genisys unofficial
 ===================
 
+[![Join the chat at https://gitter.im/Genisys-unofficial/Lobby](https://badges.gitter.im/Genisys-unofficial/Lobby.svg)](https://gitter.im/Genisys-unofficial/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 __Feature-rich server software for Minecraft: Pocket Edition & Windows 10 Edition Beta__
 
 [![Travis-CI](https://img.shields.io/travis/caspervanneck/Genisys/master.svg)](https://travis-ci.org/caspervanneck/Genisys)
